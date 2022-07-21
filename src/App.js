@@ -1,3 +1,4 @@
+import React from "react";
 import Expenses from "./components/Expenses/Expenses";
 
 const App = () => {
@@ -34,4 +35,5 @@ const App = () => {
     </div>
   );
 };
+
 export default App;
